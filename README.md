@@ -1,2 +1,0 @@
-# Projekt Mall
-Läs uppgiftsbeskrivningen
