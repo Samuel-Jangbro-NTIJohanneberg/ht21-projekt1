@@ -8,6 +8,7 @@ body {
 
 
 
+
 }
 
 
@@ -33,7 +34,7 @@ nav {
     height: 40px;
  
 }
-main {
+section{
     background-color: orange;
     height: 400px;
   
