@@ -1,9 +1,20 @@
 
+
+
+html{
+height: 100%;
+
+}
+
+
+
 body {
 
-    background-color: #696969
-
-
+    background-color: #292929;
+    background-image: url(img/bakgrund.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 
 
 
@@ -24,27 +35,102 @@ body {
 
 
 header {
-    background-color: red;
+  
     height: 118px;
+    text-align: center;
     
     
 }
 nav {
-    background-color: blue;
-    height: 40px;
+    background-color: rgba(0, 0, 0, 0.479);
+    padding-top: 14px;
+    text-align: center;
+    padding-bottom: 14px;
+    
  
 }
-section{
-    background-color: orange;
+main{
+  
     height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
   
 
 }
 footer {
-    background-color: greenyellow;
-    height: 100px;
+    background-color: rgba(0, 0, 0, 0.589);
+  padding-top: 50px;
+  padding-bottom: 50px;
+    text-align: center;
   
 
+}
+
+h1 { 
+font-size: 84px;
+color: black;
+font-family:inherit;
+
+
+
+
+
+}
+
+
+p {
+    font-size: 18px;
+color: rgb(0, 0, 0);
+font-family:inherit
+}
+
+a {
+    color:rgba(156, 95, 255, 0.897);
+    font-size: 18px;
+    font-family: inherit;
+    
+
+
+}
+
+nav a {
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 9px;
+   
+
+}
+.maps {
+    padding-bottom: 100px;
+}
+
+
+    
+
+
+section iframe { 
+   margin: auto;
+   padding-top: 100px;
+   padding-bottom: 30px;
+  
+
+}
+
+h2 {
+    text-align: left;
+    padding-top: 70px   ;
+    font-family: inherit;
 }
 
 
