@@ -54,8 +54,11 @@ main{
     height: 400px;
     text-align: center;
     padding-top: 80px;
+    margin-top: 100px;
     padding-left: 240px;
     padding-right: 240px;
+    background-color: rgba(0, 0, 0, 0.315);
+
   
 
 }
@@ -70,7 +73,7 @@ footer {
 
 h1 { 
 font-size: 84px;
-color: black;
+color: rgb(255, 249, 249);
 font-family:inherit;
 
 
@@ -82,7 +85,7 @@ font-family:inherit;
 
 p {
     font-size: 18px;
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 font-family:inherit
 }
 
@@ -132,5 +135,6 @@ h2 {
     padding-top: 70px   ;
     font-family: inherit;
 }
+
 
 
